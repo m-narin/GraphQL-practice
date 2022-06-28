@@ -1,0 +1,1 @@
+# GraphQL、Hasuraの練習用プロジェクト
